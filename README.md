@@ -19,3 +19,5 @@ Compare the algorithm’s output of clusters to the algorithms in R using kmeans
 2. for each k, calculate the total within-cluster sum of square(wss)
 3. Plot the curve of wss according to the number of clusters k.
 4. the location of a bend(knee) in the plot is considered as an indicator of the appropriate number of clusters.
+
+![image](https://user-images.githubusercontent.com/43942029/82004710-94aab200-9631-11ea-8701-2e1ceb6b849c.png)
