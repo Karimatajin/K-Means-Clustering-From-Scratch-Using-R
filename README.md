@@ -12,6 +12,8 @@ Compare the algorithm’s output of clusters to the algorithms in R using kmeans
 3. For each of the K clusters update the cluster centroid by calculating the new mean values.
 4. Repeat until the dataset cluster assignments don't change.
 
+![image](https://user-images.githubusercontent.com/43942029/82004507-0e8e6b80-9631-11ea-8d28-3d1335686e46.png)
+
 ## elbow method steps:
 1. Compute clustering algorithm for different values of k.
 2. for each k, calculate the total within-cluster sum of square(wss)
